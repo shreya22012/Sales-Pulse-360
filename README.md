@@ -19,9 +19,6 @@ Tools Used
 Project Objective
 To transform raw sales data into meaningful business insights through interactive dashboard visualization.
 
-Dashboard Preview
-![Dashboard](dashboard1.png)
-
 Key Learnings
 - Data Analytics
 - Dashboard Designing
